@@ -65,7 +65,7 @@ const Footer = () => {
                 </div>
                 <div className="flex items-center space-x-2 text-primary-foreground/80">
                   <Phone className="w-4 h-4" />
-                  <span>+1 (555) 123-RISE</span>
+                  <span>+254 741 428 123</span>
                 </div>
               </div>
               
@@ -103,11 +103,6 @@ const Footer = () => {
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <div className="text-primary-foreground/60 text-sm">
               © {currentYear} RISE30. All rights reserved.
-            </div>
-            <div className="flex items-center space-x-6 text-sm text-primary-foreground/60">
-              <span>🌍 Available in 4 languages</span>
-              <span>♿ WCAG 2.1 Compliant</span>
-              <span>📱 Mobile-First Design</span>
             </div>
           </div>
         </div>

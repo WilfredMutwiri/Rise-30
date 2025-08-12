@@ -41,7 +41,7 @@ const Navigation = () => {
 
           {/* Right side */}
           <div className="flex items-center space-x-4">
-            <LanguageToggle />
+            {/* <LanguageToggle /> */}
             <Button variant="cta" size="sm" className="hidden sm:inline-flex">
               Join Movement
             </Button>
